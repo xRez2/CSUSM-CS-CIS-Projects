@@ -1,0 +1,14 @@
+---
+:id: 161261089
+:submitters:
+- :name: Savell Blake
+  :email: savel004@csusm.edu
+- :name: Christopher Xavier
+  :email: chris110@cougars.csusm.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-02-11 06:15:36.113504000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-02-10 22:15:36.113504000 Z
+:status: processed
+:score: 90.0
